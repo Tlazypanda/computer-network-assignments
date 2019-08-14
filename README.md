@@ -1,4 +1,6 @@
 # computer-network-assignments  
+3. Implement linked list and all its operation and demonstrate with suitable 
+input/output operations. 
 4. Write a simple client­server program using STREAM socket that provides chat facility. Your application allows a user on one machine to type in and send text to a user on another machine. (Hint: Computer Networks by Davie and Peterson; page no. 45). 
 5. Introduction to Sockets and Tasks shall be performed using DGRAM socket:   
 a. Create three programs, two of which are clients to a single server. Client1 will send a character to the server process. The server will decrement the letter to the next letter in the alphabet and send the result to client2. Client2 prints the letter it receives and then all the processes terminate. Compile and run this exercise in both the UNIX and the Internet domains.   
